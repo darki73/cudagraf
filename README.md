@@ -2,7 +2,7 @@
 This repository contains custom builds of Telegraf for usage with Nvidia Cuda.
 
 # Supported tags and respective Dockerfile links
-- [1.18](https://github.com/darki73/cudagraf/blob/master/cudagraf/1.18/Dockerfile)
+- [1.18](https://github.com/darki73/cudagraf/blob/main/cudagraf/1.18/Dockerfile)
 
 # Using this image
 ## Exposed Ports
@@ -26,4 +26,4 @@ $ docker run --runtime=nvidia --net=container:influxdb telegraf
 For installation process of Nvidia Drivers on your machine, please refer to [this link](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html).
 
 ## Example of Grafana Dashboard
-![Grafana Dashboard Example](https://github.com/darki73/cudagraf/blob/master/images/grafana.png?raw=true)
+![Grafana Dashboard Example](https://github.com/darki73/cudagraf/blob/main/images/grafana.png?raw=true)
