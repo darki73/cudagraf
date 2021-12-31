@@ -3,6 +3,8 @@ This repository contains custom builds of Telegraf for usage with Nvidia Cuda.
 
 # Supported tags and respective Dockerfile links
 - [1.18](https://github.com/darki73/cudagraf/blob/main/cudagraf/1.18/Dockerfile)
+- [1.21](https://github.com/darki73/cudagraf/blob/main/cudagraf/1.21/Dockerfile)
+- [latest](https://github.com/darki73/cudagraf/blob/main/cudagraf/1.21/Dockerfile)
 
 # Using this image
 ## Exposed Ports
